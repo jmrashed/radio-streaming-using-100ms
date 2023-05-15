@@ -13,7 +13,9 @@ Radio Streaming Using 100ms is an application that allows users to listen to liv
 - **Customization Options**: Users can personalize their streaming experience by adjusting settings such as volume, equalizer, and audio quality according to their preferences.
 - **Robust Backend**: The project includes a robust backend infrastructure that efficiently handles streaming requests, ensures smooth playback, and supports a large number of concurrent users.
 
-## Getting Started
+## Demo 
+
+<img src="./src/images/Screenshot.png">
 
 ### Prerequisites
 
