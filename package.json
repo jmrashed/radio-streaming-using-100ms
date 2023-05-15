@@ -1,0 +1,31 @@
+{
+  "name": "radio-streaming",
+  "version": "1.0.0",
+  "description": "This is radio-streaming web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmrashed/radio-streaming-using-100ms.git"
+  },
+  "keywords": [
+    "radio",
+    "streaming",
+    "100ms"
+  ],
+  "author": "jmrashed@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmrashed/radio-streaming-using-100ms/issues"
+  },
+  "homepage": "https://github.com/jmrashed/radio-streaming-using-100ms#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@100mslive/hms-video-store": "^0.10.3"
+  }
+}
